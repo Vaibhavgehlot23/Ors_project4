@@ -1,0 +1,16 @@
+127.0.0.1 - - [19/Sep/2022:13:15:16 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:19 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 554
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:19 +0530] "GET /ORS_Project4/img/customLogo.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:19 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:23 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1266
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:23 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:26 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 3047
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:36 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:37 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 3314
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:43 +0530] "GET /ORS_Project4/ctl/CollegeListCtl HTTP/1.1" 200 11925
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:43 +0530] "GET /ORS_Project4/js/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:15:43 +0530] "GET /ORS_Project4/js/Checkbox11.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:16:37 +0530] "GET /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 13778
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:17:30 +0530] "GET /ORS_Project4/ctl/CollegeListCtl HTTP/1.1" 200 11925
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:22:21 +0530] "POST /ORS_Project4/ctl/CollegeListCtl HTTP/1.1" 200 11935
+0:0:0:0:0:0:0:1 - - [19/Sep/2022:13:22:28 +0530] "POST /ORS_Project4/ctl/CollegeListCtl HTTP/1.1" 200 11925

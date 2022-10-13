@@ -1,0 +1,12 @@
+127.0.0.1 - - [13/Oct/2022:10:23:17 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:20 +0530] "GET /ORS_Project4/ HTTP/1.1" 200 553
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:20 +0530] "GET /ORS_Project4/img/logo.png HTTP/1.1" 404 931
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:21 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1266
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:23 +0530] "GET /ORS_Project4/LoginCtl HTTP/1.1" 200 3047
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:34 +0530] "POST /ORS_Project4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:34 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 3314
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:37 +0530] "GET /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 13527
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:40 +0530] "POST /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 9411
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:44 +0530] "POST /ORS_Project4/ctl/MarksheetListCtl HTTP/1.1" 200 13527
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:46 +0530] "GET /ORS_Project4/LoginCtl?operation=logout HTTP/1.1" 200 3070
+0:0:0:0:0:0:0:1 - - [13/Oct/2022:10:23:49 +0530] "GET /ORS_Project4/WelcomeCtl HTTP/1.1" 200 1266
